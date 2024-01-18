@@ -1,6 +1,6 @@
 import react from "react"
 
-const Input = () => {
+const Input = ({name}:{name:string}) => {
     return <input />
 }
 

@@ -12,7 +12,7 @@ export default function Home() {
           >
             <p className="">Rootdsdf</p>
           </Link>
-      <Input />
+      <Input name="fsfdf"/>
       <TextField size="small" variant="outlined"/>
     </>
   );
